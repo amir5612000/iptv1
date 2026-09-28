@@ -1,0 +1,8 @@
+<resources>
+    <color name="bg">#0F1115</color>
+    <color name="panel">#1B1F27</color>
+    <color name="focus">#44FFFFFF</color>
+    <color name="active">#441E88E5</color>
+    <color name="transparent">#00000000</color>
+    <color name="scrim">#99000000</color>
+</resources>
